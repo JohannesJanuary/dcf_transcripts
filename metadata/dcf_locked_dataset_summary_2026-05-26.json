@@ -1,0 +1,117 @@
+{
+  "locked_date": "2026-05-26",
+  "source_file": "locked_dcf_dataset\\dcf_transcripts_LOCKED_2022_2025_2026-05-26.csv",
+  "message_rows": 80350,
+  "unique_companies": 500,
+  "unique_company_quarter_calls": 1348,
+  "coverage": [
+    {
+      "Year": "2022",
+      "Quarter": "Q1",
+      "Unique Company Calls": 203,
+      "Message Rows": 12452
+    },
+    {
+      "Year": "2022",
+      "Quarter": "Q2",
+      "Unique Company Calls": 86,
+      "Message Rows": 5073
+    },
+    {
+      "Year": "2022",
+      "Quarter": "Q3",
+      "Unique Company Calls": 30,
+      "Message Rows": 1977
+    },
+    {
+      "Year": "2022",
+      "Quarter": "Q4",
+      "Unique Company Calls": 30,
+      "Message Rows": 1940
+    },
+    {
+      "Year": "2023",
+      "Quarter": "Q1",
+      "Unique Company Calls": 28,
+      "Message Rows": 1887
+    },
+    {
+      "Year": "2023",
+      "Quarter": "Q2",
+      "Unique Company Calls": 29,
+      "Message Rows": 1710
+    },
+    {
+      "Year": "2023",
+      "Quarter": "Q3",
+      "Unique Company Calls": 29,
+      "Message Rows": 1829
+    },
+    {
+      "Year": "2023",
+      "Quarter": "Q4",
+      "Unique Company Calls": 29,
+      "Message Rows": 1778
+    },
+    {
+      "Year": "2024",
+      "Quarter": "Q1",
+      "Unique Company Calls": 28,
+      "Message Rows": 1825
+    },
+    {
+      "Year": "2024",
+      "Quarter": "Q2",
+      "Unique Company Calls": 30,
+      "Message Rows": 1857
+    },
+    {
+      "Year": "2024",
+      "Quarter": "Q3",
+      "Unique Company Calls": 29,
+      "Message Rows": 1765
+    },
+    {
+      "Year": "2024",
+      "Quarter": "Q4",
+      "Unique Company Calls": 27,
+      "Message Rows": 1680
+    },
+    {
+      "Year": "2025",
+      "Quarter": "Q1",
+      "Unique Company Calls": 464,
+      "Message Rows": 27251
+    },
+    {
+      "Year": "2025",
+      "Quarter": "Q2",
+      "Unique Company Calls": 181,
+      "Message Rows": 10247
+    },
+    {
+      "Year": "2025",
+      "Quarter": "Q3",
+      "Unique Company Calls": 85,
+      "Message Rows": 4737
+    },
+    {
+      "Year": "2025",
+      "Quarter": "Q4",
+      "Unique Company Calls": 40,
+      "Message Rows": 2342
+    }
+  ],
+  "panel_thresholds": {
+    "1": 500,
+    "2": 326,
+    "4": 45,
+    "6": 31,
+    "8": 30,
+    "10": 29,
+    "12": 29,
+    "14": 27,
+    "15": 22,
+    "16": 21
+  }
+}

@@ -1,0 +1,10 @@
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Do not commit full transcript exports unless redistribution rights are confirmed.
+dcf_transcripts*.csv
+*LOCKED_2022_2025*.csv
+locked_dcf_dataset/
